@@ -30,3 +30,5 @@ FROM asnelling/node-winbuildtools:<tag>
 You may optionally specify a Node.js version in the tag (e.g.: `asnelling/node-winbuildtools:7.4.0`) when using this image. The node versions below are available:
 - 6.9.4 (`asnelling/node-winbuildtools:6.9.4`)
 - 7.4.0 (`asnelling/node-winbuildtools:7.4.0`)
+
+License: MIT
